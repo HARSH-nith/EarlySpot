@@ -56,7 +56,7 @@ As simple as that.
 <img width="960" alt="ESI - 4" src="https://user-images.githubusercontent.com/75531664/164505226-40dc3f3c-d353-4112-b7a2-f383dbc5f5da.png">
 
 
-## Benifits
+## Benefits
 EarlySpot is making glaucoma Testing :
 * Easily available  
 * Affordable   
